@@ -5,7 +5,7 @@
 <li>Back-end</li>
 <li>Portfolio project
 <ol>
-<li>Auhor: Rubeluchukwuisi Chidubem KIngsley</li>
+<li>Auhor: Rubeluchukwuisi Chidubem Kingsley</li>
 </ol>
 </li>
 </ul>
